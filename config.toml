@@ -1,7 +1,7 @@
 languageCode = "en-us"
-title = "Hip Hop de Raíz"
-baseURL = "https://hugo-theme-massively.netlify.com/"
-theme = "hugo-theme-massively"
+title = "Massively"
+baseURL = "http://localhost:1313/"
+theme = "../.."
 googleanalytics = ""
 disqusShortname = ""
 
